@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="450" viewBox="0 0 940 450" font-family="Arial, Helvetica, sans-serif" xmlns:c2pa="http://c2pa.org/manifest">
+<rect width="940" height="450" fill="#ffffff"/>
+<text x="470.0" y="32" font-size="20" text-anchor="middle" fill="#1e3a8a" font-weight="bold">Maqueta - Cajero automático (wireframe)</text>
+<rect x="20" y="55" width="210" height="340" rx="10" fill="#f5f7fa" stroke="#1e3a8a" stroke-width="2"/>
+<path d="M20 89 v-24 a10 10 0 0 1 10 -10 h190 a10 10 0 0 1 10 10 v24 z" fill="#1e3a8a"/>
+<text x="125" y="77" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">BANCO - CAJERO</text>
+<text x="125" y="420" font-size="13" text-anchor="middle" fill="#444" font-weight="normal">1. Ingreso de PIN</text>
+<text x="125" y="120" font-size="14" text-anchor="middle" fill="#222" font-weight="normal">Ingrese su PIN</text>
+<rect x="55" y="135" width="30" height="30" rx="4" fill="#fff" stroke="#888"/>
+<text x="70" y="157" font-size="18" text-anchor="middle" fill="#222" font-weight="normal">*</text>
+<rect x="95" y="135" width="30" height="30" rx="4" fill="#fff" stroke="#888"/>
+<text x="110" y="157" font-size="18" text-anchor="middle" fill="#222" font-weight="normal">*</text>
+<rect x="135" y="135" width="30" height="30" rx="4" fill="#fff" stroke="#888"/>
+<text x="150" y="157" font-size="18" text-anchor="middle" fill="#222" font-weight="normal">*</text>
+<rect x="175" y="135" width="30" height="30" rx="4" fill="#fff" stroke="#888"/>
+<text x="190" y="157" font-size="18" text-anchor="middle" fill="#222" font-weight="normal">*</text>
+<rect x="39" y="185" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="65.0" y="202.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">1</text>
+<rect x="99" y="185" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="125.0" y="202.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">2</text>
+<rect x="159" y="185" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="185.0" y="202.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">3</text>
+<rect x="39" y="219" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="65.0" y="236.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">4</text>
+<rect x="99" y="219" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="125.0" y="236.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">5</text>
+<rect x="159" y="219" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="185.0" y="236.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">6</text>
+<rect x="39" y="253" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="65.0" y="270.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">7</text>
+<rect x="99" y="253" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="125.0" y="270.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">8</text>
+<rect x="159" y="253" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="185.0" y="270.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">9</text>
+<rect x="39" y="287" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="65.0" y="304.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">Borrar</text>
+<rect x="99" y="287" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="125.0" y="304.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">0</text>
+<rect x="159" y="287" width="52" height="26" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="185.0" y="304.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">OK</text>
+<rect x="37" y="330" width="176" height="28" rx="5" fill="#ffffff" stroke="#b91c1c"/>
+<text x="125.0" y="348.0" font-size="12" text-anchor="middle" fill="#b91c1c" font-weight="normal">Cancelar</text>
+<rect x="250" y="55" width="210" height="340" rx="10" fill="#f5f7fa" stroke="#1e3a8a" stroke-width="2"/>
+<path d="M250 89 v-24 a10 10 0 0 1 10 -10 h190 a10 10 0 0 1 10 10 v24 z" fill="#1e3a8a"/>
+<text x="355" y="77" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">BANCO - CAJERO</text>
+<text x="355" y="420" font-size="13" text-anchor="middle" fill="#444" font-weight="normal">2. Menú principal</text>
+<text x="355" y="117" font-size="14" text-anchor="middle" fill="#222" font-weight="normal">Seleccione una opción</text>
+<rect x="267" y="133" width="176" height="34" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="355.0" y="154.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">Consultar saldo</text>
+<rect x="267" y="179" width="176" height="34" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="355.0" y="200.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">Retirar efectivo</text>
+<rect x="267" y="225" width="176" height="34" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="355.0" y="246.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">Depositar</text>
+<rect x="267" y="271" width="176" height="34" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="355.0" y="292.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">Transferir</text>
+<rect x="267" y="317" width="176" height="34" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="355.0" y="338.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">Cambiar PIN</text>
+<rect x="267" y="357" width="176" height="28" rx="5" fill="#ffffff" stroke="#b91c1c"/>
+<text x="355.0" y="375.0" font-size="12" text-anchor="middle" fill="#b91c1c" font-weight="normal">Salir</text>
+<rect x="480" y="55" width="210" height="340" rx="10" fill="#f5f7fa" stroke="#1e3a8a" stroke-width="2"/>
+<path d="M480 89 v-24 a10 10 0 0 1 10 -10 h190 a10 10 0 0 1 10 10 v24 z" fill="#1e3a8a"/>
+<text x="585" y="77" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">BANCO - CAJERO</text>
+<text x="585" y="420" font-size="13" text-anchor="middle" fill="#444" font-weight="normal">3. Retiro de efectivo</text>
+<text x="585" y="117" font-size="14" text-anchor="middle" fill="#222" font-weight="normal">¿Cuánto desea retirar?</text>
+<rect x="497" y="135" width="84" height="34" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="539.0" y="156.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">$20</text>
+<rect x="589" y="135" width="84" height="34" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="631.0" y="156.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">$50</text>
+<rect x="497" y="179" width="84" height="34" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="539.0" y="200.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">$100</text>
+<rect x="589" y="179" width="84" height="34" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="631.0" y="200.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">$200</text>
+<text x="497" y="245" font-size="12" text-anchor="start" fill="#222" font-weight="normal">Otro valor:</text>
+<rect x="497" y="253" width="176" height="30" rx="4" fill="#fff" stroke="#888"/>
+<text x="507" y="273" font-size="12" text-anchor="start" fill="#888" font-weight="normal">$ ______</text>
+<rect x="497" y="305" width="176" height="32" rx="5" fill="#1e3a8a" stroke="#1e3a8a"/>
+<text x="585.0" y="325.0" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="normal">Confirmar retiro</text>
+<rect x="497" y="349" width="176" height="30" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="585.0" y="368.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">Volver</text>
+<rect x="710" y="55" width="210" height="340" rx="10" fill="#f5f7fa" stroke="#1e3a8a" stroke-width="2"/>
+<path d="M710 89 v-24 a10 10 0 0 1 10 -10 h190 a10 10 0 0 1 10 10 v24 z" fill="#1e3a8a"/>
+<text x="815" y="77" font-size="13" text-anchor="middle" fill="#ffffff" font-weight="bold">BANCO - CAJERO</text>
+<text x="815" y="420" font-size="13" text-anchor="middle" fill="#444" font-weight="normal">4. Comprobante</text>
+<circle cx="815" cy="135" r="24" fill="#16a34a"/>
+<path d="M803 135 l9 9 l15 -17" stroke="#fff" stroke-width="4" fill="none"/>
+<text x="815" y="185" font-size="14" text-anchor="middle" fill="#222" font-weight="bold">Transacción exitosa</text>
+<text x="735" y="215" font-size="12" text-anchor="start" fill="#222" font-weight="normal">Operación: Retiro</text>
+<text x="735" y="237" font-size="12" text-anchor="start" fill="#222" font-weight="normal">Monto: $100</text>
+<text x="735" y="259" font-size="12" text-anchor="start" fill="#222" font-weight="normal">Saldo disponible: $900</text>
+<text x="735" y="281" font-size="12" text-anchor="start" fill="#222" font-weight="normal">Fecha: dd/mm/aaaa</text>
+<rect x="727" y="317" width="176" height="30" rx="5" fill="#ffffff" stroke="#1e3a8a"/>
+<text x="815.0" y="336.0" font-size="12" text-anchor="middle" fill="#1e3a8a" font-weight="normal">Imprimir comprobante</text>
+<rect x="727" y="355" width="176" height="30" rx="5" fill="#1e3a8a" stroke="#1e3a8a"/>
+<text x="815.0" y="374.0" font-size="12" text-anchor="middle" fill="#ffffff" font-weight="normal">Finalizar</text>
+<path d="M232 225 h16 m-6 -5 l6 5 l-6 5" stroke="#dc2626" stroke-width="2" fill="none"/>
+<path d="M462 225 h16 m-6 -5 l6 5 l-6 5" stroke="#dc2626" stroke-width="2" fill="none"/>
+<path d="M692 225 h16 m-6 -5 l6 5 l-6 5" stroke="#dc2626" stroke-width="2" fill="none"/>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo2Mjg3OWY0NS1lOWQ3LTQ4YTUtOTliYi1mODUyYTVlYmZkNWQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaJCW58fY2M/U/gdTJpvMV58AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmOWYzY2I5Ny00YjdhLTQ5ZTEtYTQwZS01MjgwN2JkZTQ5YmVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNodyEzDM/rgow77fn+60vz7AAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggmXTPfOPrlWYuQP5tNRiOAVJ/q9cQ+G3rhG3NY3MrZ5+kZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLAjGe5aHIJRZ4Eji69LregAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIKHqjQHnYyZQIMkfxcm6mIfY7w7PW2UyrJgeTqDq/Nf6ZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSZGZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjYyODc5ZjQ1LWU5ZDctNDhhNS05OWJiLWY4NTJhNWViZmQ1ZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjU2MTczZjgzLTBjZTMtNGQ5ZS05NTc1LTc2ZjFhYTkwYmUyMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCZdM984+uVZi5A/m01GI4BUn+r1xD4beuEbc1jcytnn6JjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggzSuopDZrH0BJRnxSm1/gyjWTHt8JciXaFmIPBmvTxbSiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggt14h3sRK2tTK1iXJB94QHqIX9JZ/n1ehcFaBQDaIxQF0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQC+85V18kLyw8Xp17keFrwZ9XkFIrP9URnc9/b6BRVnUuYq/AR+C8KCMx6TmmXGJ7qicS0UlUKlY02e/jIi5qAg=</c2pa:manifest></metadata></svg>
