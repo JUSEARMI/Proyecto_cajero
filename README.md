@@ -17,4 +17,4 @@ Sistema de cajero automático (ATM) que permite a un cliente autenticarse con su
 
 ## Equipo
 
-- **[TU NOMBRE]**: proyecto individual, asume todos los roles (ver [roles del equipo](docs/roles-del-equipo.md)).
+- **Sebastian Arias**: proyecto individual, asume todos los roles (ver [roles del equipo](docs/roles-del-equipo.md)).
